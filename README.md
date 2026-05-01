@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.hazadv.2025.100787-blue)](https://doi.org/10.1016/j.hazadv.2025.100787)
 [![Journal](https://img.shields.io/badge/Journal-Hazardous%20Materials%20Advances-orange)](https://www.sciencedirect.com/journal/journal-of-hazardous-materials-advances)
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Open Access](https://img.shields.io/badge/Open-Access-green)](https://doi.org/10.1016/j.hazadv.2025.100787)
 
 ## About
@@ -51,8 +51,6 @@ The **Alldataset_annotation.zip** file contains the consolidated YOLO-format lab
 ## Usage
 
 ### Download
-
-To download the entire dataset:
 
 ```bash
 git clone https://github.com/sombsuk/dataset_microplastic.git
@@ -117,7 +115,17 @@ This work was conducted at the **Faculty of Engineering, Khon Kaen University**,
 
 ## License
 
-This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license, consistent with the open-access publication. You are free to share and adapt the material for any purpose, provided appropriate attribution is given.
+This repository is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license, consistent with the open-access publication. This means you may:
+
+- ✅ **Share** — copy and redistribute the material in any medium or format
+- ✅ **Attribute** — give appropriate credit to the authors and cite the publication
+
+But you may **not**:
+
+- ❌ **NonCommercial** — use the material for commercial purposes without permission
+- ❌ **NoDerivatives** — distribute modified versions of the material
+
+For full license terms, see [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Contact
 
